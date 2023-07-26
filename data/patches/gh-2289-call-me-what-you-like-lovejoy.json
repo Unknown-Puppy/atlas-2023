@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Call Me What You Like (Lovejoy)",
+	"description": "Call Me What You Like is a single released on Feb 10th 2023 by a British indie rock band Lovejoy, the band included Will Gold (or Willbur Soot a popular streamer) as the vocalist, Joe Goldsmith as the guitarist, Mark Boardman as the drummer and Ash Kabosu as the bassist",
+	"links": {
+		"website": [
+			"https://youtu.be/E91pJYO_s7I"
+		]
+	},
+	"path": {
+		"246": [
+			[
+				464,
+				501
+			],
+			[
+				464,
+				501
+			],
+			[
+				465,
+				501
+			],
+			[
+				464,
+				536
+			],
+			[
+				500,
+				536
+			],
+			[
+				500,
+				501
+			]
+		]
+	},
+	"center": {
+		"246": [
+			482,
+			519
+		]
+	}
+}
